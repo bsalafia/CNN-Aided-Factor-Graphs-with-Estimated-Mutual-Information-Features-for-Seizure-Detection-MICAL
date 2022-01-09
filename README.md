@@ -9,5 +9,5 @@ For training the networks on the CHB-MIT dataset, we use the ADAM optimizer with
 In factor graph inference, the transition probabilities are chosen using fine-tuning between the values of 0 and 1 with steps of 0.1. The threshold of 0.5 is used to classify the seizure and no-seizure states during the tuning process.
 
 
-
+heloo
 
